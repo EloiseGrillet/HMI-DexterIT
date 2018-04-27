@@ -1,2 +1,2 @@
 # HMI
-HMI project (Flitts, Keystroke)
+HMI project (Fitts, Keystroke)
