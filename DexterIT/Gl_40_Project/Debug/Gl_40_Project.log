@@ -3,7 +3,6 @@
 c:\users\thibaut\documents\utbm\info1\gl40\projet\hmi-dexterit\dexterit\gl_40_project\appMenu.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
 c:\users\thibaut\documents\utbm\info1\gl40\projet\hmi-dexterit\dexterit\gl_40_project\dataLoader.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
 c:\users\thibaut\documents\utbm\info1\gl40\projet\hmi-dexterit\dexterit\gl_40_project\dataLoader.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
-  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
   appMenu.obj : /DEBUG:FASTLINK n'est pas pris en charge en présence de code managé ; redémarrage de l'édition des liens avec /DEBUG:FULL
   Gl_40_Project.vcxproj -> C:\Users\Thibaut\Documents\UTBM\INFO1\GL40\Projet\HMI-DexterIT\DexterIT\Debug\DexterIT.exe
   Gl_40_Project.vcxproj -> C:\Users\Thibaut\Documents\UTBM\INFO1\GL40\Projet\HMI-DexterIT\DexterIT\Debug\DexterIT.pdb (Partial PDB)
