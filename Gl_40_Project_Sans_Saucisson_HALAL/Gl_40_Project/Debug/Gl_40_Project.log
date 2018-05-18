@@ -1,8 +1,8 @@
 ﻿  appMenu.cpp
-d:\_utbm\info02\gl40\test cpp project\gl_40_project\gl_40_project\appMenu.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-d:\_utbm\info02\gl40\test cpp project\gl_40_project\gl_40_project\dataLoader.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-d:\_utbm\info02\gl40\test cpp project\gl_40_project\gl_40_project\dataLoader.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\thibaut\documents\utbm\info1\gl40\projet\hmi-dexterit\gl_40_project_sans_saucisson_halal\gl_40_project\appMenu.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\thibaut\documents\utbm\info1\gl40\projet\hmi-dexterit\gl_40_project_sans_saucisson_halal\gl_40_project\dataLoader.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\thibaut\documents\utbm\info1\gl40\projet\hmi-dexterit\gl_40_project_sans_saucisson_halal\gl_40_project\dataLoader.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
   .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
-  appMenu.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
-  Gl_40_Project.vcxproj -> D:\_UTBM\INFO02\GL40\Test CPP Project\Gl_40_Project\Debug\Gl_40_Project.exe
-  Gl_40_Project.vcxproj -> D:\_UTBM\INFO02\GL40\Test CPP Project\Gl_40_Project\Debug\Gl_40_Project.pdb (Partial PDB)
+  appMenu.obj : /DEBUG:FASTLINK n'est pas pris en charge en présence de code managé ; redémarrage de l'édition des liens avec /DEBUG:FULL
+  Gl_40_Project.vcxproj -> C:\Users\Thibaut\Documents\UTBM\INFO1\GL40\Projet\HMI-DexterIT\Gl_40_Project_Sans_Saucisson_HALAL\Debug\Gl_40_Project.exe
+  Gl_40_Project.vcxproj -> C:\Users\Thibaut\Documents\UTBM\INFO1\GL40\Projet\HMI-DexterIT\Gl_40_Project_Sans_Saucisson_HALAL\Debug\Gl_40_Project.pdb (Partial PDB)
